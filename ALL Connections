@@ -1,0 +1,8 @@
+Motor Driver IN1 → ESP8266 GPIO 2
+Motor Driver IN2 → ESP8266 GPIO 4
+Motor Driver IN3 → ESP8266 GPIO 13
+Motor Driver IN4 → ESP8266 GPIO 12
+IR Sensor Left → ESP8266 GPIO 14
+IR Sensor Right → ESP8266 GPIO 5
+L298N VCC → 12V Power Supply (for motors)
+L298N GND → Shared Ground with ESP8266
