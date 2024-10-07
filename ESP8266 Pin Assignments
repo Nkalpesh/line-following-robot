@@ -1,0 +1,6 @@
+IN1 (D4) : Direction pin 1 for Motor 1
+IN2 (D2) : Direction pin 2 for Motor 1
+IN3 (D6) : Direction pin 1 for Motor 2
+IN4 (D7) : Direction pin 2 for Motor 2
+L_S (D5) : Left IR sensor pin
+R_S (D1) : Right IR sensor pin
